@@ -1,6 +1,6 @@
 # .readthedocs.yml
 build:
-  os: "ubuntu-22.04"
+  os: "windows11"
   tools:
     python: "3.10"
 
