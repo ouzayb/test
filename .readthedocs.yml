@@ -4,7 +4,3 @@
 version: 2
 sphinx:
   configuration: conf.py
-
-# Optional settings
-python:
-  version: 3.x
